@@ -76,25 +76,25 @@ Analyzes profitability trends over time.
 
 ## Regional Sales Performance
 
-![Regional Sales Performance](dashboard_Images/regional_sales.png)
+![Regional Sales Performance](dashboard_images/regional_sales.png)
 
 ---
 
 ## Monthly Revenue Trend
 
-![Monthly Revenue Trend](dashboard_Images/monthly_sales_trend.png)
+![Monthly Revenue Trend](dashboard_images/monthly_sales_trend.png)
 
 ---
 
 ## Sales Distribution by Category
 
-![Category Sales](dashboard_Images/category_sales.png)
+![Category Sales](dashboard_images/category_sales.png)
 
 ---
 
 ## Top 10 Best-Selling Products
 
-![Top Products](dashboard_Images/top_products.png)
+![Top Products](dashboard_images/top_products.png)
 
 ---
 
