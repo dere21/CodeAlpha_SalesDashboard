@@ -1,6 +1,6 @@
-# Sales Performance Dashboard using Python
+# 📊 Sales Performance Dashboard using Python
 
-## Project Overview
+## 📌 Project Overview
 
 This project presents a Sales Performance Dashboard created using Python for data analysis and visualization. The dashboard analyzes retail sales data to identify important business insights related to revenue trends, product performance, regional sales distribution, category-wise sales, and profit trends.
 
@@ -8,7 +8,7 @@ The project was developed using Google Colab and Python visualization libraries 
 
 ---
 
-## Objectives
+# 🎯 Objectives
 
 - Analyze monthly sales revenue trends
 - Identify top-performing products
@@ -19,7 +19,7 @@ The project was developed using Google Colab and Python visualization libraries 
 
 ---
 
-## Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -29,7 +29,7 @@ The project was developed using Google Colab and Python visualization libraries 
 
 ---
 
-## Dataset
+# 📂 Dataset
 
 The project uses the Superstore Sales dataset containing retail transaction information including:
 
@@ -39,11 +39,11 @@ The project uses the Superstore Sales dataset containing retail transaction info
 - Product Name
 - Category
 - Region
-- Customer information
+- Customer Information
 
 ---
 
-## Data Cleaning and Preprocessing
+# 🧹 Data Cleaning and Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -53,26 +53,52 @@ The following preprocessing steps were performed:
 
 ---
 
-## Visualizations Included
+# 📊 Visualizations Included
 
-### Monthly Revenue Trend
+## 📈 Monthly Revenue Trend
 Visualizes sales performance over time to identify trends and seasonal patterns.
 
-### Top 10 Best-Selling Products
+## 🏆 Top 10 Best-Selling Products
 Highlights products generating the highest sales revenue.
 
-### Regional Sales Performance
+## 🌍 Regional Sales Performance
 Compares sales performance across different regions.
 
-### Sales Distribution by Category
+## 📦 Sales Distribution by Category
 Shows the contribution of each product category to total sales.
 
-### Monthly Profit Trend
+## 💰 Monthly Profit Trend
 Analyzes profitability trends over time.
 
 ---
 
-## Key Insights
+# 📷 Sample Visualizations
+
+## Regional Sales Performance
+
+![Regional Sales Performance](dashboard_Images/regional_sales.png)
+
+---
+
+## Monthly Revenue Trend
+
+![Monthly Revenue Trend](dashboard_Images/monthly_sales_trend.png)
+
+---
+
+## Sales Distribution by Category
+
+![Category Sales](dashboard_Images/category_sales.png)
+
+---
+
+## Top 10 Best-Selling Products
+
+![Top Products](dashboard_Images/top_products.png)
+
+---
+
+# 💡 Key Insights
 
 - Technology products generated the highest sales revenue.
 - The West region achieved the strongest sales performance.
@@ -81,12 +107,37 @@ Analyzes profitability trends over time.
 
 ---
 
-## Project Structure
+# 📁 Project Structure
 
-```text
+```plaintext
 CodeAlpha_SalesDashboard/
 │
 ├── CodeAlpha_SalesDashboard.ipynb
 ├── Sample - Superstore.csv
 ├── README.md
-└── dashboard_images/
+└── dashboard_Images/
+    ├── monthly_sales_trend.png
+    ├── regional_sales.png
+    ├── category_sales.png
+    └── top_products.png
+```
+
+---
+
+# 🚀 How to Run
+
+```bash
+pip install pandas matplotlib seaborn
+```
+
+Open the notebook using:
+
+- Google Colab
+- Jupyter Notebook
+- VS Code
+
+---
+
+# 👨‍💻 Author
+
+Dires Negash
